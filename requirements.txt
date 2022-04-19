@@ -1,0 +1,24 @@
+python3.6.0
+keras2.3.1
+tensorflow-gpu2.0.0
+CUDA10.0.0
+cuDNN7.6.0.64 for CUDA10.0.0
+
+# The CUDA installation package, cuDNN files and tensorflow whl file can be find in the venv_python3.6 directory.
+
+librosa
+os
+time
+argparse
+scikit-learn
+pyyaml
+numpy
+tqdm
+pandas
+matplotlib
+ruamel.yaml
+sklearn
+seaborn
+mkl
+json
+math
